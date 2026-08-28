@@ -9,6 +9,7 @@ Sistema Café es una aplicación que permite gestionar diferentes procesos relac
 El proyecto está desarrollado de forma modular, separando las diferentes funcionalidades en archivos Python para facilitar su organización, mantenimiento y comprensión.
 
 🚀 Funcionalidades
+
 📋 Gestión del menú de productos.
 🛒 Registro y gestión de pedidos.
 👤 Manejo de nombres y usuarios.
